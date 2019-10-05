@@ -28,3 +28,4 @@ Hello everyone, I am Jijinkh. I love coding and experimenting!
 Hey, Everyone! My name is Amit Dutta. I like web development and recently started in open source projects.
 Hey Guys, I am Manik. I think everyone should code, it teaches you how to think.
 Hello, I'm TravelingMan. I like to explore technologies and make little things for myself and my kids to use with C#, JS, and TS.
+Hi, I'm Eduardo. I'm a junior WEB developer at Audaces Brazil.
