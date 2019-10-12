@@ -42,3 +42,4 @@ Hi I am Jinal. I really like programming.
 Hello, I am Saurabh from India. I am a full Stack Developer. I love to Code and make a project worth all
 Hello! My name is Sankat Mochan. I am new to git and github and wanna contribute in open source.
 Hello,I'm Satya Pavan kalyan,I just started with github.
+Hello, my name is Amit Gusain, I am new to and learning about open source contributions.
