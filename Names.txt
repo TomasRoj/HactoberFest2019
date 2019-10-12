@@ -27,7 +27,7 @@ Hello , I am PRATHAM a machine learning enthusiast
 Hi , Athul here ,I'm a student who likes to discover new things . Have a good day and happy Hactober!
 Hello Everyone, I am Parth Patel. It's great to see you all here. I am a Web Developer. I also love working with Python, C, C++, Java and Data Structures.  
 Hello everyone, I am Jijinkh. I love coding and experimenting!
-Hi, I am Abhishek. Just for tshirt.
+Hi, I am Abhishek. I am a student developer and coder.
 Hey, Everyone! My name is Amit Dutta. I like web development and recently started in open source projects.
 Hey Guys, I am Manik. I think everyone should code, it teaches you how to think.
 Hello, I'm TravelingMan. I like to explore technologies and make little things for myself and my kids to use with C#, JS, and TS.
