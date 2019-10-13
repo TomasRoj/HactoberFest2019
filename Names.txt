@@ -22,6 +22,7 @@ Hello, Everyone! I'm Priyansh Mishra. I just started with github and opensource 
 Hey Guys my name is Anoop, I am a fullStack Web Developer love to work with php, laravel, nodejs, react, vue etc.
 Hello, I am Kunal Bhatia, I like to work with js, css, illustrator, react, c++ etc.
 Hola, Im Ric John, a Software Engineer. Happy Hacking everyone!
+Hey! I'm Prachi Sabarad. Happy Hactober Everyone!
 Hello guys, I am Rishabh Tiwari, I am learning Deep Learning and Artificial Intelligence.
 Hello , I am PRATHAM a machine learning enthusiast
 Hi , Athul here ,I'm a student who likes to discover new things . Have a good day and happy Hactober!
