@@ -1,4 +1,4 @@
-# Hacktoberfest2019
+# Hacktober-Fest-2019
 ![logo](https://github.com/TomasRoj/HactoberFest2019/blob/master/logo.png)
 
 Contribute to this year's Hacktoberfest!
