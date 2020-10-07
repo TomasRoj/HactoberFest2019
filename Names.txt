@@ -31,7 +31,7 @@ Hey, Everyone! My name is Amit Dutta. I like web development and recently starte
 Hey Guys, I am Manik. I think everyone should code, it teaches you how to think.
 Hello, I'm TravelingMan. I like to explore technologies and make little things for myself and my kids to use with C#, JS, and TS.
 Hey this is Stephen aka Swong87! I love Hacktoberfest. I am a Front-End Developer with experience with Javascript, PHP, and Kotlin.
-Hello there,I'm Rithish just started contributing and its kinda fun
+Hello there,I'm Rithish just started contributing and its kinda fun.
 Hello, I'm Arpit. I love Automation and I always try to automate everything we do regularly.
 Hello, I'm Pratyush. I love development and coding. 
 Hello, I'm Samuel. I am always coding, currently working on Chrome extensions and learning to incorporate databases in my websites.
@@ -47,4 +47,5 @@ Hi, I'm sukhwmit and I know how to use photoshop and illustrator :)
 Hello, I am Mustak. I am an App + Web Developer
 Hello, I am Armideon, I am self taught and new to github.
 Hi, my name is Rajesh Sharma and I'm a full stack developer.
-Hello,I Am Tech4mer.I am very tech enthusiast person
+Hello,I Am Tech4mer.I am very tech enthusiast person.
+Hello,my name is anshul and I am a beginner.
