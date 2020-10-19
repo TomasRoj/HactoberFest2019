@@ -1,3 +1,9 @@
+Hi! My name is Shubhankar Rana.
+I am doing my bachlers in Information Technology and I am here to contribute
+in Open Source. Its my first pull request in GitHub. 
+
+
+
 Hi!! my name is raghvi, and i just started github.
 Hey! I'm Mudit Srivastava. I just started with github and opensource contribution.
 Hi,  My name is Tomas Roj. I like coding and stuff around open source.
