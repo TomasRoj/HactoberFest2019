@@ -13,7 +13,7 @@ Don't use dirty words and be welcome for beginners and other people in this comm
 All you need to do is to submit a pull request with your name and some small greeting for other people here :-D.
 
 ### Okay, but WTF is a pull request?
-nothingh much
+nothing much
 
 Pull request is a request to add your code (or text in this repo) to the original repository. By doing 5 pull requests you can get a limited Hacktoberfest t-shirt! And the main thing, you can help other people with bugs and implement features.
 
@@ -26,8 +26,8 @@ Don't want to submit your name? Feel free to visit the issue section and choose 
 
 ## Rules
 
-Please submit only one pull request at the time and don't spam. Please wait until your pull request is reviewed, it can take some time.
-Don't use dirty words and be welcome for beginners and other people in this community.
+Please submit only one pull request at the time and don't spam. Please wait until your pull request is review, it can take some time.
+Don't use dirty words and be welcome for beginners and other people in this community also welcome.
 
 ## Say hello!
 
