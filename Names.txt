@@ -5,6 +5,7 @@ Hey, Everyone! My name is Aman Saxena. I like competitive programming and intere
 Hi, my name is Nikhil Arora. I am a competative programmer and I like open source.
 Hello, My name is Adarsh Singh. I am interested in doing Bug Bounties , contributing to open source projects and competitive Programming.
 Hi, my name is Nikhil Arora. I am a competative programmer and I like open source.
+Hey folks!.Kamal here.Just starting my first pull request to open-source.Wanna became part of the Hactoberfest Community.
 Hello, My name is Adarsh Singh. I am interested in doing Bug Bounties , contributing to open source projects and competitive Programming.
 Hello, I am Akanksha Raghav. I am a front end web developer and working on back end . I am interested in open source project work.
 Hi,I am Abdullah khan,I just started with github and opensource contribution.
